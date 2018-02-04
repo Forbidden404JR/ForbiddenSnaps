@@ -1,0 +1,2 @@
+# ForbiddenSnaps
+AutoClaimFaucet
